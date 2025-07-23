@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**stackleaf/Stackleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stackleaf
 
-Here are some ideas to get you started:
+This is the official GitHub space for Stackleaf.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Created and owned by: **Ankit Kumar**  
+Started: **July 2025**
+
+Social Profiles:
+- Instagram: [@stackleaf](https://instagram.com/stackleaf)
+- YouTube: [Stackleaf](https://youtube.com/@stackleaf)
+- GitHub: [github.com/stackleaf](https://github.com/stackleaf)
+
+This page serves as a record that the name "Stackleaf" was first used publicly by Ankit Kumar.

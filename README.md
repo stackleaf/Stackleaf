@@ -11,4 +11,3 @@ Social Profiles:
 - YouTube: [Stackleaf](https://youtube.com/@stackleaf)
 - GitHub: [github.com/stackleaf](https://github.com/stackleaf)
 
-This page serves as a record that the name "Stackleaf" was first used publicly by Ankit Kumar.
